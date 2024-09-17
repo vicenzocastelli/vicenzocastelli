@@ -24,7 +24,7 @@ If you want to see my soft skills or other stuff (certificates), acess my Linked
 ![Static Badge](https://img.shields.io/badge/MySQL-%2300758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23049fd8?style=for-the-badge&logo=cisco&logoColor=white)
 
-## General info
+## About me
 
 - Born and raised in São Paulo
 - Love sports in general
@@ -32,15 +32,12 @@ If you want to see my soft skills or other stuff (certificates), acess my Linked
 - Started play video games in 2007
 - Resolving IT problems since 2010
 
-## My repositories?
-
-Oh, I don't think I have that many of them at present. Fret not, though, for I'll be sure to add some interesting projects as soon as I finish them up all the way through!
 
 ## Some of my stats
 
 <p align="center">
 <a href="https://github.com/pedrotura">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrotura&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrotura&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vicenzocastelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vicenzocastelli&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
