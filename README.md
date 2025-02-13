@@ -5,6 +5,7 @@
 If you want to see my soft skills or other stuff (certificates), acess my LinkedIn -----> https://www.linkedin.com/in/vicenzo-castelli/Z
 
 ### Like i said before, my name is Vicenzo Castelli
+
 ## Tecnologies that i am familiar with
 
 
@@ -12,6 +13,7 @@ If you want to see my soft skills or other stuff (certificates), acess my Linked
 ![Static Badge](https://img.shields.io/badge/HTML5-%23f16529?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%232a65f1?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JS-%23f0db4e?style=for-the-badge&logo=javascript&logoColor=%23323230)
+![Static Badge](https://img.shields.io/badge/Python-%23f0db4e?style=for-the-badge&logo=python&logoColor=%23323230)
 ![Static Badge](https://img.shields.io/badge/TS-%233178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%230c1a33?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PHP-336699?style=for-the-badge&logo=PHP&logoColor=white)
